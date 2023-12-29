@@ -7,7 +7,7 @@
 	--> Open Powershell and execute below command to set Script Execution Policy.
 		Set-ExecutionPolicy -ExecutionPolicy bypass -Scope process
 	--> Now Execute Windows.ps1 file in Powershell to Complete Installation.
-		./Windows_Setup.ps1
+		./Windows.ps1
 	--> Change the icon of **Burp-Suite-Pro.vbs** to the given icon 
 		Create a shortcut to Desktop. Right Click over **Burp-Suite-Pro.vbs** Go to Shortcut tab, and below there is **Change Icon** tab.
 		Click there and choose the burp-suite.ico from C:\Burp\ 
